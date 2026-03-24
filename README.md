@@ -7,7 +7,7 @@
 
 Doğrudan kullanmaya başlamak için hazırladığımız yükleyiciyi indirebilirsiniz:
 
-👉 **[Lound_Wind_Setup_3.5.0.exe İndir]
+👉 **[Lound_Wind_Setup_3.5.0.exe İndir] https://drive.google.com/file/d/1KSMX5O9iFFf5Gxt9XWASKffGL2CbK3z-/view?usp=sharing
 
 *(Not: "Releases" (Sürümler) sekmesinden en güncel `.exe` dosyasını bulup indirebilirsiniz.)*
 
